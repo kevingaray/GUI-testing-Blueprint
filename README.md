@@ -1,7 +1,8 @@
 # GUI-testing-Blueprint
 This repository serves as an addition to the organization's project originally hosted privately in a [GitHub repo](https://github.com/Dam24/GUI-testing). Here, you will find comprehensive information and resources that provide valuable context for the project.
 ## About
-The GUI-testing Blueprint project was developed as part of the QA Automation Bootcamp. It focuses on performing comprehensive testing related to Blueprint, an internal application property of Jalasoft that allows users to create workflows business processes. This service provides a graphical interface that allows users to design workflows by connecting different steps and actions.
+The GUI-testing Blueprint project was developed as part of the QA Automation Bootcamp. It focuses on performing comprehensive testing related to Blueprint, an internal application property of Jalasoft that allows users to create workflows business processes. This service provides a graphical interface that allows users to design workflows by connecting different steps and actions.  
+
 <img src="https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/47c0ca8f-0fb6-43ed-9952-ae7c7550e2f9" width="500">  
 <img src="https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/2cf5e890-c9d7-4cb9-96f3-f2780e855377" width="500">  
 
@@ -43,8 +44,9 @@ The project incorporates various technologies to support its development and tes
 ## Architecture: POM
 ![image](https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/3cb6624e-afe6-488a-b129-443e48f8d8da)
 
-## Demo
-!!!insert video here 
+## Demo E2E
+https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/81450a08-5463-4314-be81-5a827a0839ed
+
 
 ## Some Bugs Found
 1. Hidden flow components when resolution changes
@@ -52,8 +54,11 @@ The project incorporates various technologies to support its development and tes
 <img src="https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/3965b57f-ad99-4f68-8f41-46c2f0ad0d1b"  width="450">  
 
 2. "Create" button on "Create Flow" modal should be disabled until Flow name and code are verified  
-<img src="github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/84b61285-9e56-4f25-95b9-580e26973e87" width="450"> 
- 
+<img src="https://github.com/kevingaray/GUI-testing-Blueprint/assets/48739137/494f4782-928a-4265-bedd-f2a04d713132" width="250">
+
+
+
+
 ## Robot Reports
 
 ### Chrome default resolution (full screen)
